@@ -1,5 +1,5 @@
 
-//this is the client side javascript. 
+//this is the client side javascript. heroku keys
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
